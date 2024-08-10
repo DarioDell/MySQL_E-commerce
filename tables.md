@@ -1,18 +1,18 @@
-*customers:*<br>
--customerNumber<br>
--customerName<br>
--contactLastName<br>
--contactFirstName<br>
--phone<br>
--addressLine1<br>
--addressLine2<br>
--city<br>
--state<br>
--postalCode<br>
--country<br>
--salesRepEmployeeNumber<br>
--creditLimit --> creditLimit refers to the maximum amount of credit that has been assigned to each client. <br>
-		 This credit limit indicates the maximum amount that a customer can owe the company at any given time.<br>
+- *customers:*<br>
+customerNumber<br>
+customerName<br>
+contactLastName<br>
+contactFirstName<br>
+phone<br>
+addressLine1<br>
+addressLine2<br>
+city<br>
+state<br>
+postalCode<br>
+country<br>
+salesRepEmployeeNumber<br>
+creditLimit --> creditLimit refers to the maximum amount of credit that has been assigned to each client.
+		This credit limit indicates the maximum amount that a customer can owe the company at any given time.<br>
 -
 -
 -
