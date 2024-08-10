@@ -1,0 +1,25 @@
+*customers:*
+-customerNumber
+-customerName
+-contactLastName
+-contactFirstName
+-phone
+-addressLine1
+-addressLine2
+-city
+-state
+-postalCode
+-country
+-salesRepEmployeeNumber
+-creditLimit --> creditLimit refers to the maximum amount of credit that has been assigned to each client. 
+							   This credit limit indicates the maximum amount that a customer can owe the company at any given time.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
