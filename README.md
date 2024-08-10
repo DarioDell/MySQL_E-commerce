@@ -1,7 +1,7 @@
 # MySQL_E-commerce
 
 Evaluation of a set of tables that refer to a fictitious store that sells miniature products art crafts that are scaled down models of real life objects such as cars, motorcycles, airplanes, boats, etc.<br>
-The concept of the project is to present various requests made in SQL, which enables to get rather useful and detailed information on the environment, products, clients, and the business economy.<br>
+The concept of the project is to present various requests made in SQL, which enables to get rather useful and detailed information on the environment, products, clients, and the business economy.<br><br>
 The different tables have been procured from Kaggle:
 - Customers
 - Employees
