@@ -11,6 +11,6 @@ The different tables have been procured from Kaggle:<br><br>
 - Product
 - Produc lines
 - Payments
-- Waregouses <br>
+- Warehouses<br><br>
 The analysis is performed in MySQL in conjunction with a Jupyter Notebook Python script. Python is not crucial in this project, but I have incorporated it to illustrate how seamlessly you can integrate Python and MySQL.<br>
 The queries are made in the SQL language within MySQL and then I do the same in Jupyter Notebook where I get the results of each query that will be shown below in HTML format.<br>
