@@ -1,0 +1,13 @@
+orderNumber,customerNumber,productName,total_sales,DR_sales
+"10196,455,""2001 Ferrari Enzo"",9571.08,1"
+"10201,129,""2003 Harley-Davidson Eagle Drag Bike"",9394.28,2"
+"10127,151,""2001 Ferrari Enzo"",8889.5,3"
+"10194,146,""1952 Alpine Renault 1300"",8550.78,4"
+"10105,145,""2001 Ferrari Enzo"",8434.52,5"
+"10150,148,""1952 Alpine Renault 1300"",8197.2,6"
+"10114,172,""1992 Ferrari 360 Spider red"",8128.32,7"
+"10176,386,""1969 Ford Falcon"",8045.5,8"
+"10126,458,""1952 Alpine Renault 1300"",7817.74,9"
+"10147,379,""1968 Ford Mustang"",7751.52,10"
+
+  Same result using a CTE (Common Table Expression)
