@@ -1,0 +1,965 @@
+productName;buyPrice;priceEach;gross_margin;profit_margin_percentage;margin_classification
+1917 Grand Touring Sedan;86.7;136;49.3;57;YES
+1911 Ford Town Car;33.3;55.09;21.79;65;YES
+1932 Alfa Romeo 8C2300 Spider Sport;43.26;75.46;32.2;74;YES
+1936 Mercedes Benz 500k Roadster;21.75;35.29;13.54;62;YES
+1932 Model A Ford J-Coupe;58.48;108.06;49.58;85;YES
+1928 Mercedes-Benz SSK;72.56;167.06;94.5;130;YES
+1939 Chevrolet Deluxe Coupe;22.57;32.53;9.96;44;YES
+1938 Cadillac V-16 Presidential Limousine;20.61;44.35;23.74;115;YES
+1937 Lincoln Berline;60.62;95.55;34.93;58;YES
+1936 Mercedes-Benz 500K Special Roadster;24.26;43.13;18.87;78;YES
+1952 Alpine Renault 1300;98.58;214.3;115.72;117;YES
+1962 LanciaA Delta 16V;103.42;119.67;16.25;16;NO
+1958 Setra Bus;77.9;121.64;43.74;56;YES
+1940 Ford Pickup Truck;58.33;94.5;36.17;62;YES
+1926 Ford Fire Engine;24.92;58.34;33.42;134;YES
+1913 Ford Model T Speedster;60.78;92.19;31.41;52;YES
+1934 Ford V8 Coupe;34.35;61.84;27.49;80;YES
+18th Century Vintage Horse Carriage;60.74;86.92;26.18;43;YES
+1917 Maxwell Touring Car;57.54;86.31;28.77;50;YES
+1940s Ford truck;84.76;98.07;13.31;16;NO
+1939 Cadillac Limousine;23.14;40.75;17.61;76;YES
+1962 Volkswagen Microbus;61.34;107.34;46;75;YES
+1936 Chrysler Airflow;57.46;88.62;31.16;54;YES
+1980â€™s GM Manhattan Express;53.93;92.46;38.53;71;YES
+1996 Peterbilt 379 Stake Bed with Outrigger;33.61;63.35;29.74;88;YES
+1982 Camaro Z28;46.53;94.07;47.54;102;YES
+1998 Chrysler Plymouth Prowler;101.51;135.9;34.39;34;YES
+1964 Mercedes Tour Bus;74.86;122.73;47.87;64;YES
+1992 Ferrari 360 Spider red;77.9;165.95;88.05;113;YES
+1970 Triumph Spitfire;91.92;119.2;27.28;30;YES
+1958 Chevy Corvette Limited Edition;15.91;30.41;14.5;91;YES
+1992 Porsche Cayenne Turbo Silver;69.78;106.45;36.67;53;YES
+1954 Greyhound Scenicruiser;25.98;51.95;25.97;100;YES
+1950's Chicago Surface Lines Streetcar;26.72;56.55;29.83;112;YES
+Diamond T620 Semi-Skirted Tanker;68.29;114.59;46.3;68;YES
+1962 City of Detroit Streetcar;37.49;53.31;15.82;42;YES
+1972 Alfa Romeo GTA;85.68;127.84;42.16;49;YES
+2001 Ferrari Enzo;95.59;205.72;110.13;115;YES
+1969 Ford Falcon;83.05;141.88;58.83;71;YES
+1903 Ford Model A;68.3;136.59;68.29;100;YES
+Collectable Wooden Train;67.56;87.73;20.17;30;YES
+1904 Buick Runabout;52.66;75.48;22.82;43;YES
+18th century schooner;82.34;117.97;35.63;43;YES
+1912 Ford Model T Delivery Wagon;46.91;73.46;26.55;57;YES
+1940 Ford Delivery Sedan;48.64;75.47;26.83;55;YES
+The Schooner Bluenose;34;54;20;59;YES
+The Mayflower;43.3;86.61;43.31;100;YES
+The Titanic;51.09;92.16;41.07;80;YES
+The Queen Mary;53.63;99.31;45.68;85;YES
+Pont Yacht;33.3;44.77;11.47;34;YES
+1980s Black Hawk Helicopter;77.27;134.04;56.77;73;YES
+P-51-D Mustang;49;81.1;32.1;66;YES
+1999 Yamaha Speed Boat;51.61;80.86;29.25;57;YES
+1941 Chevrolet Special Deluxe Cabriolet;64.58;94.22;29.64;46;YES
+1928 British Royal Navy Airplane;66.74;107.23;40.49;61;YES
+1900s Vintage Bi-Plane;34.25;65.77;31.52;92;YES
+1937 Horch 930V Limousine;26.3;55.89;29.59;113;YES
+Corsair F4U ( Bird Cage);29.34;55.96;26.62;91;YES
+1900s Vintage Tri-Plane;36.23;71;34.77;96;YES
+1928 Ford Phaeton Deluxe;33.02;65.35;32.33;98;YES
+1930 Buick Marquette Phaeton;27.06;35.78;8.72;32;YES
+American Airlines: B767-300;51.15;91.34;40.19;79;YES
+HMS Bounty;39.83;85.09;45.26;114;YES
+America West Airlines B757-200;68.8;99.72;30.92;45;YES
+ATA: B757-300;59.33;113.9;54.57;92;YES
+F/A 18 Hornet 1/72;54.4;76;21.6;40;YES
+American Airlines: MD-11S;36.27;70.33;34.06;94;YES
+Boeing X-32A JSF;32.77;43.7;10.93;33;YES
+1969 Harley Davidson Ultimate Chopper;48.81;81.35;32.54;67;YES
+1996 Moto Guzzi 1100i;68.99;105.86;36.87;53;YES
+2003 Harley-Davidson Eagle Drag Bike;91.02;172.36;81.34;89;YES
+2002 Suzuki XREO;66.27;122;55.73;84;YES
+1936 Harley Davidson El Knucklehead;24.23;52.7;28.47;117;YES
+1997 BMW R 1100 S;60.86;96.92;36.06;59;YES
+1960 BSA Gold Star DBD34;37.32;73.12;35.8;96;YES
+1997 BMW F650 ST;66.92;88.9;21.98;33;YES
+1968 Ford Mustang;95.34;165.38;70.04;73;YES
+1968 Dodge Charger;75.16;96.3;21.14;28;NO
+1970 Plymouth Hemi Cuda;31.92;75.81;43.89;138;YES
+1969 Dodge Charger;58.73;107.1;48.37;82;YES
+1948 Porsche 356-A Roadster;53.9;67.76;13.86;26;NO
+1969 Dodge Super Bee;49.05;73.17;24.12;49;YES
+1976 Ford Gran Torino;73.49;132.29;58.8;80;YES
+1957 Vespa GS150;32.95;52.84;19.89;60;YES
+1957 Corvette Convertible;69.93;139.87;69.94;100;YES
+1982 Ducati 900 Monster;47.1;64.41;17.31;37;YES
+1971 Alpine Renault 1600s;38.58;60.01;21.43;56;YES
+1956 Porsche 356A Coupe;98.3;132;33.7;34;YES
+1961 Chevrolet Impala;32.33;67.1;34.77;108;YES
+1982 Ducati 996 R;24.14;36.21;12.07;50;YES
+1974 Ducati 350 Mk3 Desmo;56.13;87.76;31.63;56;YES
+2002 Yamaha YZR M1;34.17;74.85;40.68;119;YES
+1993 Mazda RX-7;83.51;117.48;33.97;41;YES
+1995 Honda Civic;93.89;137.98;44.09;47;YES
+1999 Indy 500 Monte Carlo SS;56.76;126.72;69.96;123;YES
+1992 Ferrari 360 Spider red;77.9;160.87;82.97;107;YES
+1948 Porsche Type 356 Roadster;62.16;125.74;63.58;102;YES
+1982 Lamborghini Diablo;16.24;32.1;15.86;98;YES
+1965 Aston Martin DB5;65.96;118.22;52.26;79;YES
+1917 Grand Touring Sedan;86.7;153;66.3;76;YES
+1911 Ford Town Car;33.3;51.46;18.16;55;YES
+1932 Model A Ford J-Coupe;58.48;115.69;57.21;98;YES
+1928 Mercedes-Benz SSK;72.56;163.69;91.13;126;YES
+1932 Alfa Romeo 8C2300 Spider Sport;43.26;81.91;38.65;89;YES
+1957 Ford Thunderbird;34.21;62;27.79;81;YES
+1970 Chevy Chevelle SS 454;49.24;72.02;22.78;46;YES
+1966 Shelby Cobra 427 S/C;29.18;43.27;14.09;48;YES
+1939 Chevrolet Deluxe Coupe;22.57;28.88;6.31;28;NO
+1938 Cadillac V-16 Presidential Limousine;20.61;40.77;20.16;98;YES
+1949 Jaguar XK 120;47.25;82.69;35.44;75;YES
+1952 Citroen-15CV;72.82;112.74;39.92;55;YES
+1969 Chevrolet Camaro Z28;50.51;80.47;29.96;59;YES
+2002 Chevy Corvette;62.11;96.37;34.26;55;YES
+1936 Mercedes Benz 500k Roadster;21.75;35.29;13.54;62;YES
+1937 Lincoln Berline;60.62;87.33;26.71;44;YES
+1936 Mercedes-Benz 500K Special Roadster;24.26;48.52;24.26;100;YES
+1934 Ford V8 Coupe;34.35;53.09;18.74;55;YES
+18th Century Vintage Horse Carriage;60.74;94.25;33.51;55;YES
+1917 Maxwell Touring Car;57.54;91.27;33.73;59;YES
+1936 Chrysler Airflow;57.46;85.7;28.24;49;YES
+1952 Alpine Renault 1300;98.58;197.16;98.58;100;YES
+1913 Ford Model T Speedster;60.78;85.1;24.32;40;YES
+1958 Setra Bus;77.9;121.64;43.74;56;YES
+1940 Ford Pickup Truck;58.33;101.5;43.17;74;YES
+1939 Cadillac Limousine;23.14;43.27;20.13;87;YES
+1996 Peterbilt 379 Stake Bed with Outrigger;33.61;58.82;25.21;75;YES
+1962 LanciaA Delta 16V;103.42;128.53;25.11;24;NO
+1964 Mercedes Tour Bus;74.86;106.78;31.92;43;YES
+1926 Ford Fire Engine;24.92;53.48;28.56;115;YES
+1992 Ferrari 360 Spider red;77.9;169.34;91.44;117;YES
+1940s Ford truck;84.76;105.34;20.58;24;NO
+1962 Volkswagen Microbus;61.34;102.23;40.89;67;YES
+1958 Chevy Corvette Limited Edition;15.91;28.64;12.73;80;YES
+1980â€™s GM Manhattan Express;53.93;88.61;34.68;64;YES
+1954 Greyhound Scenicruiser;25.98;43.83;17.85;69;YES
+1982 Camaro Z28;46.53;82.94;36.41;78;YES
+1998 Chrysler Plymouth Prowler;101.51;140.81;39.3;39;YES
+1992 Porsche Cayenne Turbo Silver;69.78;106.45;36.67;53;YES
+Diamond T620 Semi-Skirted Tanker;68.29;100.7;32.41;47;YES
+1950's Chicago Surface Lines Streetcar;26.72;60.28;33.56;126;YES
+2001 Ferrari Enzo;95.59;195.33;99.74;104;YES
+1969 Ford Falcon;83.05;173.02;89.97;108;YES
+1903 Ford Model A;68.3;121.57;53.27;78;YES
+Collectable Wooden Train;67.56;81.68;14.12;21;NO
+1970 Triumph Spitfire;91.92;122.08;30.16;33;YES
+1904 Buick Runabout;52.66;73.73;21.07;40;YES
+18th century schooner;82.34;119.2;36.86;45;YES
+1962 City of Detroit Streetcar;37.49;55.65;18.16;48;YES
+The Mayflower;43.3;75.35;32.05;74;YES
+The Queen Mary;53.63;89.38;35.75;67;YES
+Pont Yacht;33.3;52.42;19.12;57;YES
+The Titanic;51.09;86.15;35.06;69;YES
+1972 Alfa Romeo GTA;85.68;112.88;27.2;32;YES
+1980s Black Hawk Helicopter;77.27;151.38;74.11;96;YES
+1999 Yamaha Speed Boat;51.61;74.84;23.23;45;YES
+1941 Chevrolet Special Deluxe Cabriolet;64.58;95.28;30.7;48;YES
+1900s Vintage Bi-Plane;34.25;64.4;30.15;88;YES
+1912 Ford Model T Delivery Wagon;46.91;72.58;25.67;55;YES
+1937 Horch 930V Limousine;26.3;63.12;36.82;140;YES
+1940 Ford Delivery Sedan;48.64;82.18;33.54;69;YES
+Corsair F4U ( Bird Cage);29.34;62.1;32.76;112;YES
+The Schooner Bluenose;34;57.34;23.34;69;YES
+HMS Bounty;39.83;74.23;34.4;86;YES
+American Airlines: MD-11S;36.27;63.67;27.4;76;YES
+Boeing X-32A JSF;32.77;40.22;7.45;23;NO
+1996 Moto Guzzi 1100i;68.99;118.94;49.95;72;YES
+2003 Harley-Davidson Eagle Drag Bike;91.02;158.8;67.78;74;YES
+P-51-D Mustang;49;82.79;33.79;69;YES
+1936 Harley Davidson El Knucklehead;24.23;57.54;33.31;137;YES
+1997 BMW R 1100 S;60.86;110.45;49.59;81;YES
+1928 British Royal Navy Airplane;66.74;93.01;26.27;39;YES
+1960 BSA Gold Star DBD34;37.32;72.36;35.04;94;YES
+1900s Vintage Tri-Plane;36.23;71.73;35.5;98;YES
+1997 BMW F650 ST;66.92;94.9;27.98;42;YES
+1928 Ford Phaeton Deluxe;33.02;68.79;35.77;108;YES
+1930 Buick Marquette Phaeton;27.06;41.46;14.4;53;YES
+American Airlines: B767-300;51.15;91.34;40.19;79;YES
+America West Airlines B757-200;68.8;81.77;12.97;19;NO
+ATA: B757-300;59.33;106.79;47.46;80;YES
+F/A 18 Hornet 1/72;54.4;72;17.6;32;YES
+1969 Harley Davidson Ultimate Chopper;48.81;86.13;37.32;76;YES
+2002 Suzuki XREO;66.27;126.52;60.25;91;YES
+1982 Ducati 900 Monster;47.1;58.18;11.08;24;NO
+1974 Ducati 350 Mk3 Desmo;56.13;95.93;39.8;71;YES
+2002 Yamaha YZR M1;34.17;72.41;38.24;112;YES
+1968 Ford Mustang;95.34;155.66;60.32;63;YES
+1968 Dodge Charger;75.16;113.92;38.76;52;YES
+1970 Plymouth Hemi Cuda;31.92;65.44;33.52;105;YES
+1969 Dodge Charger;58.73;104.8;46.07;78;YES
+1993 Mazda RX-7;83.51;114.65;31.14;37;YES
+1948 Porsche 356-A Roadster;53.9;62.37;8.47;16;NO
+1995 Honda Civic;93.89;113.8;19.91;21;NO
+1992 Ferrari 360 Spider red;77.9;137.17;59.27;76;YES
+1969 Dodge Super Bee;49.05;69.15;20.1;41;YES
+1976 Ford Gran Torino;73.49;133.76;60.27;82;YES
+1957 Vespa GS150;32.95;59.06;26.11;79;YES
+1957 Corvette Convertible;69.93;145.82;75.89;109;YES
+1982 Lamborghini Diablo;16.24;34.74;18.5;114;YES
+1971 Alpine Renault 1600s;38.58;50.82;12.24;32;YES
+1956 Porsche 356A Coupe;98.3;136.22;37.92;39;YES
+1961 Chevrolet Impala;32.33;67.1;34.77;108;YES
+1982 Ducati 996 R;24.14;33.79;9.65;40;YES
+1965 Aston Martin DB5;65.96;120.71;54.75;83;YES
+1999 Indy 500 Monte Carlo SS;56.76;114.84;58.08;102;YES
+1948 Porsche Type 356 Roadster;62.16;117.26;55.1;89;YES
+1966 Shelby Cobra 427 S/C;29.18;43.27;14.09;48;YES
+1917 Grand Touring Sedan;86.7;153;66.3;76;YES
+1911 Ford Town Car;33.3;58.12;24.82;75;YES
+1932 Model A Ford J-Coupe;58.48;111.87;53.39;91;YES
+1932 Alfa Romeo 8C2300 Spider Sport;43.26;75.46;32.2;74;YES
+1957 Ford Thunderbird;34.21;66.28;32.07;94;YES
+1970 Chevy Chevelle SS 454;49.24;62.47;13.23;27;NO
+1939 Chevrolet Deluxe Coupe;22.57;30.53;7.96;35;YES
+1938 Cadillac V-16 Presidential Limousine;20.61;36.29;15.68;76;YES
+1949 Jaguar XK 120;47.25;74.51;27.26;58;YES
+1952 Citroen-15CV;72.82;93.95;21.13;29;NO
+1969 Chevrolet Camaro Z28;50.51;76.19;25.68;51;YES
+2002 Chevy Corvette;62.11;101.73;39.62;64;YES
+1936 Mercedes Benz 500k Roadster;21.75;36.11;14.36;66;YES
+1937 Lincoln Berline;60.62;89.38;28.76;47;YES
+1928 Mercedes-Benz SSK;72.56;138.38;65.82;91;YES
+1952 Alpine Renault 1300;98.58;205.73;107.15;109;YES
+1962 LanciaA Delta 16V;103.42;122.62;19.2;19;NO
+1958 Setra Bus;77.9;135.3;57.4;74;YES
+1940 Ford Pickup Truck;58.33;116.67;58.34;100;YES
+1936 Mercedes-Benz 500K Special Roadster;24.26;51.21;26.95;111;YES
+1926 Ford Fire Engine;24.92;51.05;26.13;105;YES
+1913 Ford Model T Speedster;60.78;93.21;32.43;53;YES
+1934 Ford V8 Coupe;34.35;61.84;27.49;80;YES
+18th Century Vintage Horse Carriage;60.74;93.2;32.46;53;YES
+1917 Maxwell Touring Car;57.54;94.25;36.71;64;YES
+1940s Ford truck;84.76;102.92;18.16;21;NO
+1939 Cadillac Limousine;23.14;47.29;24.15;104;YES
+1962 Volkswagen Microbus;61.34;122.68;61.34;100;YES
+1936 Chrysler Airflow;57.46;83.76;26.3;46;YES
+1980â€™s GM Manhattan Express;53.93;82.83;28.9;54;YES
+1996 Peterbilt 379 Stake Bed with Outrigger;33.61;62.05;28.44;85;YES
+1982 Camaro Z28;46.53;97.1;50.57;109;YES
+2001 Ferrari Enzo;95.59;193.25;97.66;102;YES
+1969 Ford Falcon;83.05;169.56;86.51;104;YES
+1998 Chrysler Plymouth Prowler;101.51;140.81;39.3;39;YES
+1964 Mercedes Tour Bus;74.86;114.14;39.28;52;YES
+1992 Ferrari 360 Spider red;77.9;149.02;71.12;91;YES
+1970 Triumph Spitfire;91.92;126.39;34.47;38;YES
+1958 Chevy Corvette Limited Edition;15.91;34.3;18.39;116;YES
+1992 Porsche Cayenne Turbo Silver;69.78;107.63;37.85;54;YES
+1954 Greyhound Scenicruiser;25.98;46.53;20.55;79;YES
+1950's Chicago Surface Lines Streetcar;26.72;60.9;34.18;128;YES
+Diamond T620 Semi-Skirted Tanker;68.29;111.12;42.83;63;YES
+1962 City of Detroit Streetcar;37.49;55.65;18.16;48;YES
+1903 Ford Model A;68.3;120.2;51.9;76;YES
+Collectable Wooden Train;67.56;80.67;13.11;19;NO
+1904 Buick Runabout;52.66;77.24;24.58;47;YES
+The Mayflower;43.3;72.75;29.45;68;YES
+1972 Alfa Romeo GTA;85.68;123.76;38.08;44;YES
+18th century schooner;82.34;113.06;30.72;37;YES
+1912 Ford Model T Delivery Wagon;46.91;81.43;34.52;74;YES
+1940 Ford Delivery Sedan;48.64;76.31;27.67;57;YES
+The Schooner Bluenose;34;58.67;24.67;73;YES
+The Titanic;51.09;90.15;39.06;76;YES
+The Queen Mary;53.63;94.34;40.71;76;YES
+Pont Yacht;33.3;44.23;10.93;33;YES
+1999 Yamaha Speed Boat;51.61;68.82;17.21;33;YES
+1941 Chevrolet Special Deluxe Cabriolet;64.58;99.52;34.94;54;YES
+1980s Black Hawk Helicopter;77.27;141.92;64.65;84;YES
+1900s Vintage Bi-Plane;34.25;60.97;26.72;78;YES
+1937 Horch 930V Limousine;26.3;52.6;26.3;100;YES
+Corsair F4U ( Bird Cage);29.34;54.59;25.25;86;YES
+HMS Bounty;39.83;76.94;37.11;93;YES
+America West Airlines B757-200;68.8;86.76;17.96;26;NO
+American Airlines: MD-11S;36.27;63.67;27.4;76;YES
+Boeing X-32A JSF;32.77;40.22;7.45;23;NO
+F/A 18 Hornet 1/72;54.4;80;25.6;47;YES
+P-51-D Mustang;49;80.26;31.26;64;YES
+1928 British Royal Navy Airplane;66.74;109.42;42.68;64;YES
+1900s Vintage Tri-Plane;36.23;61.58;25.35;70;YES
+1997 BMW F650 ST;66.92;80.91;13.99;21;NO
+1928 Ford Phaeton Deluxe;33.02;67.41;34.39;104;YES
+1930 Buick Marquette Phaeton;27.06;37.09;10.03;37;YES
+American Airlines: B767-300;51.15;76.73;25.58;50;YES
+ATA: B757-300;59.33;115.09;55.76;94;YES
+1969 Harley Davidson Ultimate Chopper;48.81;90.92;42.11;86;YES
+1996 Moto Guzzi 1100i;68.99;116.56;47.57;69;YES
+2003 Harley-Davidson Eagle Drag Bike;91.02;187.85;96.83;106;YES
+2002 Suzuki XREO;66.27;131.04;64.77;98;YES
+1936 Harley Davidson El Knucklehead;24.23;51.48;27.25;112;YES
+1997 BMW R 1100 S;60.86;94.67;33.81;56;YES
+1960 BSA Gold Star DBD34;37.32;75.41;38.09;102;YES
+1968 Ford Mustang;95.34;173.17;77.83;82;YES
+1968 Dodge Charger;75.16;110.39;35.23;47;YES
+1970 Plymouth Hemi Cuda;31.92;72.62;40.7;128;YES
+1969 Dodge Charger;58.73;103.64;44.91;76;YES
+1948 Porsche 356-A Roadster;53.9;66.99;13.09;24;NO
+1969 Dodge Super Bee;49.05;65.94;16.89;34;YES
+1976 Ford Gran Torino;73.49;139.64;66.15;90;YES
+1957 Vespa GS150;32.95;49.74;16.79;51;YES
+1957 Corvette Convertible;69.93;133.92;63.99;92;YES
+1982 Ducati 900 Monster;47.1;67.18;20.08;43;YES
+1982 Lamborghini Diablo;16.24;34.36;18.12;112;YES
+1971 Alpine Renault 1600s;38.58;52.05;13.47;35;YES
+1956 Porsche 356A Coupe;98.3;139.03;40.73;41;YES
+1961 Chevrolet Impala;32.33;76.8;44.47;138;YES
+1982 Ducati 996 R;24.14;38.62;14.48;60;YES
+1974 Ducati 350 Mk3 Desmo;56.13;91.85;35.72;64;YES
+2002 Yamaha YZR M1;34.17;78.92;44.75;131;YES
+1993 Mazda RX-7;83.51;117.48;33.97;41;YES
+1995 Honda Civic;93.89;120.91;27.02;29;NO
+1992 Ferrari 360 Spider red;77.9;169.34;91.44;117;YES
+1965 Aston Martin DB5;65.96;115.73;49.77;75;YES
+1999 Indy 500 Monte Carlo SS;56.76;110.88;54.12;95;YES
+1948 Porsche Type 356 Roadster;62.16;118.68;56.52;91;YES
+1966 Shelby Cobra 427 S/C;29.18;40.25;11.07;38;YES
+1917 Grand Touring Sedan;86.7;149.6;62.9;73;YES
+1911 Ford Town Car;33.3;51.46;18.16;55;YES
+1932 Model A Ford J-Coupe;58.48;114.42;55.94;96;YES
+1932 Alfa Romeo 8C2300 Spider Sport;43.26;79.15;35.89;83;YES
+1957 Ford Thunderbird;34.21;64.86;30.65;90;YES
+1970 Chevy Chevelle SS 454;49.24;59.53;10.29;21;NO
+1939 Chevrolet Deluxe Coupe;22.57;33.19;10.62;47;YES
+1938 Cadillac V-16 Presidential Limousine;20.61;38.53;17.92;87;YES
+1949 Jaguar XK 120;47.25;73.6;26.35;56;YES
+1952 Citroen-15CV;72.82;96.3;23.48;32;YES
+1969 Chevrolet Camaro Z28;50.51;77.05;26.54;53;YES
+2002 Chevy Corvette;62.11;99.58;37.47;60;YES
+1936 Mercedes Benz 500k Roadster;21.75;32.82;11.07;51;YES
+1937 Lincoln Berline;60.62;89.38;28.76;47;YES
+1936 Mercedes-Benz 500K Special Roadster;24.26;52.83;28.57;118;YES
+1928 Mercedes-Benz SSK;72.56;151.88;79.32;109;YES
+1913 Ford Model T Speedster;60.78;91.18;30.4;50;YES
+1934 Ford V8 Coupe;34.35;52.47;18.12;53;YES
+18th Century Vintage Horse Carriage;60.74;101.58;40.84;67;YES
+1917 Maxwell Touring Car;57.54;81.35;23.81;41;YES
+1936 Chrysler Airflow;57.46;93.49;36.03;63;YES
+1952 Alpine Renault 1300;98.58;186.44;87.86;89;YES
+1962 LanciaA Delta 16V;103.42;131.49;28.07;27;NO
+1958 Setra Bus;77.9;118.9;41;53;YES
+1940 Ford Pickup Truck;58.33;95.67;37.34;64;YES
+1926 Ford Fire Engine;24.92;51.05;26.13;105;YES
+1940s Ford truck;84.76;100.5;15.74;19;NO
+1939 Cadillac Limousine;23.14;40.25;17.11;74;YES
+1962 Volkswagen Microbus;61.34;118.84;57.5;94;YES
+1980â€™s GM Manhattan Express;53.93;87.64;33.71;63;YES
+1996 Peterbilt 379 Stake Bed with Outrigger;33.61;62.05;28.44;85;YES
+1982 Camaro Z28;46.53;101.15;54.62;117;YES
+1998 Chrysler Plymouth Prowler;101.51;160.46;58.95;58;YES
+1964 Mercedes Tour Bus;74.86;103.09;28.23;38;YES
+1992 Ferrari 360 Spider red;77.9;143.94;66.04;85;YES
+1958 Chevy Corvette Limited Edition;15.91;32.18;16.27;102;YES
+1992 Porsche Cayenne Turbo Silver;69.78;104.09;34.31;49;YES
+1954 Greyhound Scenicruiser;25.98;53.03;27.05;104;YES
+Diamond T620 Semi-Skirted Tanker;68.29;94.92;26.63;39;YES
+2001 Ferrari Enzo;95.59;166.24;70.65;74;YES
+1969 Ford Falcon;83.05;167.83;84.78;102;YES
+1903 Ford Model A;68.3;129.76;61.46;90;YES
+Collectable Wooden Train;67.56;95.8;28.24;42;YES
+1970 Triumph Spitfire;91.92;122.08;30.16;33;YES
+1904 Buick Runabout;52.66;79.87;27.21;52;YES
+18th century schooner;82.34;114.29;31.95;39;YES
+1912 Ford Model T Delivery Wagon;46.91;74.35;27.44;58;YES
+1950's Chicago Surface Lines Streetcar;26.72;60.9;34.18;128;YES
+1962 City of Detroit Streetcar;37.49;56.24;18.75;50;YES
+The Schooner Bluenose;34;55.34;21.34;63;YES
+The Mayflower;43.3;77.08;33.78;78;YES
+The Titanic;51.09;92.16;41.07;80;YES
+The Queen Mary;53.63;91.37;37.74;70;YES
+Pont Yacht;33.3;46.96;13.66;41;YES
+1972 Alfa Romeo GTA;85.68;133.28;47.6;56;YES
+1980s Black Hawk Helicopter;77.27;126.15;48.88;63;YES
+1999 Yamaha Speed Boat;51.61;70.54;18.93;37;YES
+1941 Chevrolet Special Deluxe Cabriolet;64.58;99.52;34.94;54;YES
+1900s Vintage Bi-Plane;34.25;63.71;29.46;86;YES
+1937 Horch 930V Limousine;26.3;59.83;33.53;127;YES
+1940 Ford Delivery Sedan;48.64;74.64;26;53;YES
+Corsair F4U ( Bird Cage);29.34;55.96;26.62;91;YES
+1930 Buick Marquette Phaeton;27.06;34.91;7.85;29;NO
+American Airlines: B767-300;51.15;86.77;35.62;70;YES
+HMS Bounty;39.83;87.8;47.97;120;YES
+America West Airlines B757-200;68.8;79.78;10.98;16;NO
+F/A 18 Hornet 1/72;54.4;70.4;16;29;NO
+American Airlines: MD-11S;36.27;65.15;28.88;80;YES
+Boeing X-32A JSF;32.77;49.66;16.89;52;YES
+1928 Ford Phaeton Deluxe;33.02;56.41;23.39;71;YES
+1969 Harley Davidson Ultimate Chopper;48.81;76.56;27.75;57;YES
+1996 Moto Guzzi 1100i;68.99;104.67;35.68;52;YES
+2003 Harley-Davidson Eagle Drag Bike;91.02;154.93;63.91;70;YES
+2002 Suzuki XREO;66.27;146.1;79.83;120;YES
+P-51-D Mustang;49;71.81;22.81;47;YES
+1936 Harley Davidson El Knucklehead;24.23;52.7;28.47;117;YES
+1997 BMW R 1100 S;60.86;103.68;42.82;70;YES
+1928 British Royal Navy Airplane;66.74;87.54;20.8;31;YES
+1960 BSA Gold Star DBD34;37.32;63.98;26.66;71;YES
+1982 Ducati 900 Monster;47.1;56.1;9;19;NO
+1900s Vintage Tri-Plane;36.23;71.73;35.5;98;YES
+1997 BMW F650 ST;66.92;99.89;32.97;49;YES
+1982 Ducati 996 R;24.14;39.43;15.29;63;YES
+1974 Ducati 350 Mk3 Desmo;56.13;95.93;39.8;71;YES
+2002 Yamaha YZR M1;34.17;73.22;39.05;114;YES
+ATA: B757-300;59.33;113.9;54.57;92;YES
+1957 Vespa GS150;32.95;60.3;27.35;83;YES
+1957 Corvette Convertible;69.93;130.94;61.01;87;YES
+1968 Ford Mustang;95.34;161.49;66.15;69;YES
+1968 Dodge Charger;75.16;110.39;35.23;47;YES
+1970 Plymouth Hemi Cuda;31.92;74.21;42.29;132;YES
+1969 Dodge Charger;58.73;97.89;39.16;67;YES
+1948 Porsche 356-A Roadster;53.9;70.84;16.94;31;YES
+1969 Dodge Super Bee;49.05;74.78;25.73;52;YES
+1976 Ford Gran Torino;73.49;129.35;55.86;76;YES
+1982 Lamborghini Diablo;16.24;33.23;16.99;105;YES
+1971 Alpine Renault 1600s;38.58;48.98;10.4;27;NO
+1956 Porsche 356A Coupe;98.3;123.58;25.28;26;NO
+1961 Chevrolet Impala;32.33;72.76;40.43;125;YES
+1993 Mazda RX-7;83.51;114.65;31.14;37;YES
+1965 Aston Martin DB5;65.96;108.26;42.3;64;YES
+1995 Honda Civic;93.89;136.56;42.67;45;YES
+1999 Indy 500 Monte Carlo SS;56.76;113.52;56.76;100;YES
+1992 Ferrari 360 Spider red;77.9;143.94;66.04;85;YES
+1948 Porsche Type 356 Roadster;62.16;135.63;73.47;118;YES
+1932 Alfa Romeo 8C2300 Spider Sport;43.26;83.75;40.49;94;YES
+1957 Ford Thunderbird;34.21;66.28;32.07;94;YES
+1970 Chevy Chevelle SS 454;49.24;65.41;16.17;33;YES
+1966 Shelby Cobra 427 S/C;29.18;46.29;17.11;59;YES
+1949 Jaguar XK 120;47.25;77.24;29.99;63;YES
+1952 Citroen-15CV;72.82;115.09;42.27;58;YES
+1969 Chevrolet Camaro Z28;50.51;71.91;21.4;42;YES
+2002 Chevy Corvette;62.11;96.37;34.26;55;YES
+1937 Lincoln Berline;60.62;87.33;26.71;44;YES
+1936 Mercedes-Benz 500K Special Roadster;24.26;48.52;24.26;100;YES
+1917 Grand Touring Sedan;86.7;156.4;69.7;80;YES
+1911 Ford Town Car;33.3;50.85;17.55;53;YES
+1932 Model A Ford J-Coupe;58.48;125.86;67.38;115;YES
+1928 Mercedes-Benz SSK;72.56;167.06;94.5;130;YES
+1917 Maxwell Touring Car;57.54;89.29;31.75;55;YES
+1939 Chevrolet Deluxe Coupe;22.57;31.2;8.63;38;YES
+1938 Cadillac V-16 Presidential Limousine;20.61;39.87;19.26;93;YES
+1936 Mercedes Benz 500k Roadster;21.75;38.57;16.82;77;YES
+1936 Chrysler Airflow;57.46;90.57;33.11;58;YES
+1952 Alpine Renault 1300;98.58;182.16;83.58;85;YES
+1962 LanciaA Delta 16V;103.42;121.15;17.73;17;NO
+1958 Setra Bus;77.9;135.3;57.4;74;YES
+1940 Ford Pickup Truck;58.33;95.67;37.34;64;YES
+1913 Ford Model T Speedster;60.78;93.21;32.43;53;YES
+1934 Ford V8 Coupe;34.35;56.21;21.86;64;YES
+18th Century Vintage Horse Carriage;60.74;97.39;36.65;60;YES
+1940s Ford truck;84.76;111.39;26.63;31;YES
+1939 Cadillac Limousine;23.14;47.29;24.15;104;YES
+1996 Peterbilt 379 Stake Bed with Outrigger;33.61;62.05;28.44;85;YES
+1982 Camaro Z28;46.53;95.08;48.55;104;YES
+1998 Chrysler Plymouth Prowler;101.51;152.27;50.76;50;YES
+1964 Mercedes Tour Bus;74.86;106.78;31.92;43;YES
+1926 Ford Fire Engine;24.92;58.34;33.42;134;YES
+1992 Ferrari 360 Spider red;77.9;167.65;89.75;115;YES
+1962 Volkswagen Microbus;61.34;109.9;48.56;79;YES
+1958 Chevy Corvette Limited Edition;15.91;29.35;13.44;84;YES
+1980â€™s GM Manhattan Express;53.93;84.75;30.82;57;YES
+1954 Greyhound Scenicruiser;25.98;43.29;17.31;67;YES
+Diamond T620 Semi-Skirted Tanker;68.29;108.81;40.52;59;YES
+1970 Triumph Spitfire;91.92;117.77;25.85;28;NO
+1992 Porsche Cayenne Turbo Silver;69.78;112.37;42.59;61;YES
+1950's Chicago Surface Lines Streetcar;26.72;57.17;30.45;114;YES
+2001 Ferrari Enzo;95.59;201.57;105.98;111;YES
+1969 Ford Falcon;83.05;155.72;72.67;88;YES
+1903 Ford Model A;68.3;125.66;57.36;84;YES
+Collectable Wooden Train;67.56;82.69;15.13;22;NO
+1904 Buick Runabout;52.66;82.5;29.84;57;YES
+18th century schooner;82.34;111.83;29.49;36;YES
+1962 City of Detroit Streetcar;37.49;53.31;15.82;42;YES
+The Schooner Bluenose;34;58;24;71;YES
+The Mayflower;43.3;80.55;37.25;86;YES
+The Titanic;51.09;87.15;36.06;71;YES
+The Queen Mary;53.63;85.41;31.78;59;YES
+Pont Yacht;33.3;51.87;18.57;56;YES
+1912 Ford Model T Delivery Wagon;46.91;75.23;28.32;60;YES
+1972 Alfa Romeo GTA;85.68;129.2;43.52;51;YES
+1980s Black Hawk Helicopter;77.27;138.77;61.5;80;YES
+1999 Yamaha Speed Boat;51.61;83.44;31.83;62;YES
+1941 Chevrolet Special Deluxe Cabriolet;64.58;105.87;41.29;64;YES
+1900s Vintage Bi-Plane;34.25;62.34;28.09;82;YES
+1937 Horch 930V Limousine;26.3;56.55;30.25;115;YES
+1940 Ford Delivery Sedan;48.64;76.31;27.67;57;YES
+Corsair F4U ( Bird Cage);29.34;58.69;29.35;100;YES
+HMS Bounty;39.83;89.61;49.78;125;YES
+America West Airlines B757-200;68.8;87.75;18.95;28;NO
+F/A 18 Hornet 1/72;54.4;76.8;22.4;41;YES
+American Airlines: MD-11S;36.27;70.33;34.06;94;YES
+Boeing X-32A JSF;32.77;49.16;16.39;50;YES
+1930 Buick Marquette Phaeton;27.06;43.64;16.58;61;YES
+American Airlines: B767-300;51.15;77.64;26.49;52;YES
+P-51-D Mustang;49;69.27;20.27;41;YES
+1928 British Royal Navy Airplane;66.74;89.72;22.98;34;YES
+1900s Vintage Tri-Plane;36.23;66.65;30.42;84;YES
+1997 BMW F650 ST;66.92;83.91;16.99;25;NO
+1928 Ford Phaeton Deluxe;33.02;56.41;23.39;71;YES
+ATA: B757-300;59.33;109.16;49.83;84;YES
+1960 BSA Gold Star DBD34;37.32;67.79;30.47;82;YES
+1969 Harley Davidson Ultimate Chopper;48.81;81.35;32.54;67;YES
+1996 Moto Guzzi 1100i;68.99;101.1;32.11;47;YES
+2003 Harley-Davidson Eagle Drag Bike;91.02;170.42;79.4;87;YES
+1968 Ford Mustang;95.34;188.73;93.39;98;YES
+2002 Suzuki XREO;66.27;131.04;64.77;98;YES
+1970 Plymouth Hemi Cuda;31.92;67.03;35.11;110;YES
+1936 Harley Davidson El Knucklehead;24.23;51.48;27.25;112;YES
+1969 Dodge Super Bee;49.05;66.74;17.69;36;YES
+1976 Ford Gran Torino;73.49;129.35;55.86;76;YES
+1957 Vespa GS150;32.95;54.71;21.76;66;YES
+1957 Corvette Convertible;69.93;142.85;72.92;104;YES
+1997 BMW R 1100 S;60.86;100.3;39.44;65;YES
+1982 Ducati 900 Monster;47.1;67.18;20.08;43;YES
+1971 Alpine Renault 1600s;38.58;49.6;11.02;29;NO
+1961 Chevrolet Impala;32.33;80.84;48.51;150;YES
+1982 Ducati 996 R;24.14;39.43;15.29;63;YES
+1974 Ducati 350 Mk3 Desmo;56.13;86.74;30.61;55;YES
+2002 Yamaha YZR M1;34.17;78.11;43.94;129;YES
+1968 Dodge Charger;75.16;96.3;21.14;28;NO
+1969 Dodge Charger;58.73;93.28;34.55;59;YES
+1948 Porsche 356-A Roadster;53.9;70.84;16.94;31;YES
+1992 Ferrari 360 Spider red;77.9;140.55;62.65;80;YES
+1982 Lamborghini Diablo;16.24;30.59;14.35;88;YES
+1956 Porsche 356A Coupe;98.3;130.6;32.3;33;YES
+1993 Mazda RX-7;83.51;121.72;38.21;46;YES
+1965 Aston Martin DB5;65.96;102.04;36.08;55;YES
+1995 Honda Civic;93.89;139.41;45.52;48;YES
+1999 Indy 500 Monte Carlo SS;56.76;125.4;68.64;121;YES
+1948 Porsche Type 356 Roadster;62.16;132.8;70.64;114;YES
+1957 Ford Thunderbird;34.21;62.72;28.51;83;YES
+1970 Chevy Chevelle SS 454;49.24;73.49;24.25;49;YES
+1966 Shelby Cobra 427 S/C;29.18;47.29;18.11;62;YES
+1949 Jaguar XK 120;47.25;82.69;35.44;75;YES
+1952 Citroen-15CV;72.82;108.04;35.22;48;YES
+1969 Chevrolet Camaro Z28;50.51;72.77;22.26;44;YES
+2002 Chevy Corvette;62.11;94.23;32.12;52;YES
+1937 Lincoln Berline;60.62;87.33;26.71;44;YES
+1936 Mercedes-Benz 500K Special Roadster;24.26;45.28;21.02;87;YES
+1917 Grand Touring Sedan;86.7;141.1;54.4;63;YES
+1911 Ford Town Car;33.3;53.28;19.98;60;YES
+1932 Model A Ford J-Coupe;58.48;113.15;54.67;93;YES
+1928 Mercedes-Benz SSK;72.56;156.94;84.38;116;YES
+1932 Alfa Romeo 8C2300 Spider Sport;43.26;86.51;43.25;100;YES
+1939 Chevrolet Deluxe Coupe;22.57;27.55;4.98;22;NO
+1938 Cadillac V-16 Presidential Limousine;20.61;38.98;18.37;89;YES
+1936 Mercedes Benz 500k Roadster;21.75;32.82;11.07;51;YES
+1952 Alpine Renault 1300;98.58;212.16;113.58;115;YES
+1913 Ford Model T Speedster;60.78;101.31;40.53;67;YES
+1934 Ford V8 Coupe;34.35;59.96;25.61;75;YES
+18th Century Vintage Horse Carriage;60.74;101.58;40.84;67;YES
+1917 Maxwell Touring Car;57.54;80.36;22.82;40;YES
+1936 Chrysler Airflow;57.46;96.42;38.96;68;YES
+1962 LanciaA Delta 16V;103.42;143.31;39.89;39;YES
+1958 Setra Bus;77.9;121.64;43.74;56;YES
+1940 Ford Pickup Truck;58.33;103.84;45.51;78;YES
+1940s Ford truck;84.76;107.76;23;27;NO
+1939 Cadillac Limousine;23.14;46.29;23.15;100;YES
+1980â€™s GM Manhattan Express;53.93;91.49;37.56;70;YES
+1996 Peterbilt 379 Stake Bed with Outrigger;33.61;57.53;23.92;71;YES
+1982 Camaro Z28;46.53;86.99;40.46;87;YES
+2001 Ferrari Enzo;95.59;168.32;72.73;76;YES
+1969 Ford Falcon;83.05;152.26;69.21;83;YES
+1998 Chrysler Plymouth Prowler;101.51;134.26;32.75;32;YES
+1964 Mercedes Tour Bus;74.86;120.28;45.42;61;YES
+1926 Ford Fire Engine;24.92;60.77;35.85;144;YES
+1992 Ferrari 360 Spider red;77.9;154.1;76.2;98;YES
+Collectable Wooden Train;67.56;84.71;17.15;25;NO
+1970 Triumph Spitfire;91.92;123.51;31.59;34;YES
+1962 Volkswagen Microbus;61.34;117.57;56.23;92;YES
+1958 Chevy Corvette Limited Edition;15.91;31.12;15.21;96;YES
+1992 Porsche Cayenne Turbo Silver;69.78;106.45;36.67;53;YES
+1954 Greyhound Scenicruiser;25.98;50.86;24.88;96;YES
+1950's Chicago Surface Lines Streetcar;26.72;55.3;28.58;107;YES
+Diamond T620 Semi-Skirted Tanker;68.29;106.49;38.2;56;YES
+1962 City of Detroit Streetcar;37.49;49.21;11.72;31;YES
+1903 Ford Model A;68.3;136.59;68.29;100;YES
+1904 Buick Runabout;52.66;72.85;20.19;38;YES
+The Mayflower;43.3;76.22;32.92;76;YES
+1972 Alfa Romeo GTA;85.68;123.76;38.08;44;YES
+1980s Black Hawk Helicopter;77.27;141.92;64.65;84;YES
+1999 Yamaha Speed Boat;51.61;69.68;18.07;35;YES
+1941 Chevrolet Special Deluxe Cabriolet;64.58;84.7;20.12;31;YES
+18th century schooner;82.34;110.6;28.26;34;YES
+1900s Vintage Bi-Plane;34.25;54.81;20.56;60;YES
+1912 Ford Model T Delivery Wagon;46.91;77;30.09;64;YES
+1937 Horch 930V Limousine;26.3;64.44;38.14;145;YES
+1940 Ford Delivery Sedan;48.64;73.8;25.16;52;YES
+The Schooner Bluenose;34;66;32;94;YES
+HMS Bounty;39.83;87.8;47.97;120;YES
+The Titanic;51.09;85.14;34.05;67;YES
+The Queen Mary;53.63;83.42;29.79;56;YES
+Boeing X-32A JSF;32.77;42.71;9.94;30;YES
+Pont Yacht;33.3;43.68;10.38;31;YES
+1969 Harley Davidson Ultimate Chopper;48.81;94.74;45.93;94;YES
+1996 Moto Guzzi 1100i;68.99;97.53;28.54;41;YES
+2003 Harley-Davidson Eagle Drag Bike;91.02;160.74;69.72;77;YES
+P-51-D Mustang;49;75.19;26.19;53;YES
+1936 Harley Davidson El Knucklehead;24.23;49.06;24.83;102;YES
+1997 BMW R 1100 S;60.86;103.68;42.82;70;YES
+1928 British Royal Navy Airplane;66.74;93.01;26.27;39;YES
+1960 BSA Gold Star DBD34;37.32;72.36;35.04;94;YES
+Corsair F4U ( Bird Cage);29.34;57.32;27.98;95;YES
+1900s Vintage Tri-Plane;36.23;68.1;31.87;88;YES
+1997 BMW F650 ST;66.92;89.9;22.98;34;YES
+1928 Ford Phaeton Deluxe;33.02;57.78;24.76;75;YES
+1930 Buick Marquette Phaeton;27.06;39.71;12.65;47;YES
+American Airlines: B767-300;51.15;91.34;40.19;79;YES
+America West Airlines B757-200;68.8;87.75;18.95;28;NO
+ATA: B757-300;59.33;94.92;35.59;60;YES
+F/A 18 Hornet 1/72;54.4;72;17.6;32;YES
+American Airlines: MD-11S;36.27;67.37;31.1;86;YES
+1968 Ford Mustang;95.34;163.44;68.1;71;YES
+2002 Suzuki XREO;66.27;126.52;60.25;91;YES
+1970 Plymouth Hemi Cuda;31.92;71.82;39.9;125;YES
+1969 Dodge Super Bee;49.05;65.13;16.08;33;YES
+1976 Ford Gran Torino;73.49;136.7;63.21;86;YES
+1957 Vespa GS150;32.95;52.84;19.89;60;YES
+1957 Corvette Convertible;69.93;120.53;50.6;72;YES
+1982 Ducati 900 Monster;47.1;66.49;19.39;41;YES
+1971 Alpine Renault 1600s;38.58;53.27;14.69;38;YES
+1961 Chevrolet Impala;32.33;77.61;45.28;140;YES
+1982 Ducati 996 R;24.14;37.01;12.87;53;YES
+1974 Ducati 350 Mk3 Desmo;56.13;83.68;27.55;49;YES
+2002 Yamaha YZR M1;34.17;75.66;41.49;121;YES
+1968 Dodge Charger;75.16;116.27;41.11;55;YES
+1969 Dodge Charger;58.73;93.28;34.55;59;YES
+1948 Porsche 356-A Roadster;53.9;70.07;16.17;30;YES
+1956 Porsche 356A Coupe;98.3;130.6;32.3;33;YES
+1993 Mazda RX-7;83.51;134.46;50.95;61;YES
+1995 Honda Civic;93.89;128.03;34.14;36;YES
+1992 Ferrari 360 Spider red;77.9;165.95;88.05;113;YES
+1982 Lamborghini Diablo;16.24;34.74;18.5;114;YES
+1965 Aston Martin DB5;65.96;109.51;43.55;66;YES
+1999 Indy 500 Monte Carlo SS;56.76;117.48;60.72;107;YES
+1948 Porsche Type 356 Roadster;62.16;139.87;77.71;125;YES
+1970 Chevy Chevelle SS 454;49.24;61;11.76;24;NO
+1966 Shelby Cobra 427 S/C;29.18;43.27;14.09;48;YES
+1949 Jaguar XK 120;47.25;79.97;32.72;69;YES
+1969 Chevrolet Camaro Z28;50.51;77.91;27.4;54;YES
+2002 Chevy Corvette;62.11;87.81;25.7;41;YES
+1937 Lincoln Berline;60.62;101.71;41.09;68;YES
+1936 Mercedes-Benz 500K Special Roadster;24.26;51.75;27.49;113;YES
+1917 Grand Touring Sedan;86.7;168.3;81.6;94;YES
+1911 Ford Town Car;33.3;55.09;21.79;65;YES
+1932 Model A Ford J-Coupe;58.48;127.13;68.65;117;YES
+1928 Mercedes-Benz SSK;72.56;140.06;67.5;93;YES
+1934 Ford V8 Coupe;34.35;56.84;22.49;65;YES
+18th Century Vintage Horse Carriage;60.74;86.92;26.18;43;YES
+1917 Maxwell Touring Car;57.54;90.28;32.74;57;YES
+1932 Alfa Romeo 8C2300 Spider Sport;43.26;77.31;34.05;79;YES
+1957 Ford Thunderbird;34.21;58.44;24.23;71;YES
+1939 Chevrolet Deluxe Coupe;22.57;29.87;7.3;32;YES
+1938 Cadillac V-16 Presidential Limousine;20.61;39.42;18.81;91;YES
+1952 Citroen-15CV;72.82;98.65;25.83;35;YES
+1936 Mercedes Benz 500k Roadster;21.75;35.7;13.95;64;YES
+1936 Chrysler Airflow;57.46;93.49;36.03;63;YES
+1952 Alpine Renault 1300;98.58;207.87;109.29;111;YES
+1958 Setra Bus;77.9;113.44;35.54;46;YES
+1940 Ford Pickup Truck;58.33;108.5;50.17;86;YES
+1913 Ford Model T Speedster;60.78;100.3;39.52;65;YES
+1939 Cadillac Limousine;23.14;44.27;21.13;91;YES
+1962 LanciaA Delta 16V;103.42;119.67;16.25;16;NO
+1964 Mercedes Tour Bus;74.86;101.87;27.01;36;YES
+1926 Ford Fire Engine;24.92;59.55;34.63;139;YES
+1992 Ferrari 360 Spider red;77.9;150.71;72.81;93;YES
+1940s Ford truck;84.76;102.92;18.16;21;NO
+1962 Volkswagen Microbus;61.34;121.4;60.06;98;YES
+1958 Chevy Corvette Limited Edition;15.91;32.18;16.27;102;YES
+1980â€™s GM Manhattan Express;53.93;89.57;35.64;66;YES
+1954 Greyhound Scenicruiser;25.98;50.86;24.88;96;YES
+1996 Peterbilt 379 Stake Bed with Outrigger;33.61;56.24;22.63;67;YES
+1982 Camaro Z28;46.53;80.92;34.39;74;YES
+2001 Ferrari Enzo;95.59;166.24;70.65;74;YES
+1969 Ford Falcon;83.05;160.91;77.86;94;YES
+1998 Chrysler Plymouth Prowler;101.51;139.17;37.66;37;YES
+1970 Triumph Spitfire;91.92;140.75;48.83;53;YES
+1992 Porsche Cayenne Turbo Silver;69.78;101.72;31.94;46;YES
+1950's Chicago Surface Lines Streetcar;26.72;62.14;35.42;133;YES
+Diamond T620 Semi-Skirted Tanker;68.29;109.96;41.67;61;YES
+1962 City of Detroit Streetcar;37.49;52.14;14.65;39;YES
+1903 Ford Model A;68.3;113.37;45.07;66;YES
+Collectable Wooden Train;67.56;92.77;25.21;37;YES
+1904 Buick Runabout;52.66;82.5;29.84;57;YES
+18th century schooner;82.34;115.52;33.18;40;YES
+1912 Ford Model T Delivery Wagon;46.91;79.66;32.75;70;YES
+The Schooner Bluenose;34;58.67;24.67;73;YES
+The Mayflower;43.3;77.95;34.65;80;YES
+The Titanic;51.09;88.15;37.06;73;YES
+The Queen Mary;53.63;83.42;29.79;56;YES
+Pont Yacht;33.3;52.96;19.66;59;YES
+1972 Alfa Romeo GTA;85.68;131.92;46.24;54;YES
+1980s Black Hawk Helicopter;77.27;127.73;50.46;65;YES
+1999 Yamaha Speed Boat;51.61;70.54;18.93;37;YES
+1941 Chevrolet Special Deluxe Cabriolet;64.58;104.81;40.23;62;YES
+1900s Vintage Bi-Plane;34.25;67.82;33.57;98;YES
+1937 Horch 930V Limousine;26.3;65.75;39.45;150;YES
+1940 Ford Delivery Sedan;48.64;68.77;20.13;41;YES
+Corsair F4U ( Bird Cage);29.34;64.15;34.81;119;YES
+HMS Bounty;39.83;86.9;47.07;118;YES
+America West Airlines B757-200;68.8;91.74;22.94;33;YES
+American Airlines: MD-11S;36.27;68.11;31.84;88;YES
+Boeing X-32A JSF;32.77;41.71;8.94;27;NO
+P-51-D Mustang;49;82.79;33.79;69;YES
+1928 British Royal Navy Airplane;66.74;105.04;38.3;57;YES
+1900s Vintage Tri-Plane;36.23;66.65;30.42;84;YES
+1997 BMW F650 ST;66.92;86.9;19.98;30;YES
+1928 Ford Phaeton Deluxe;33.02;63.97;30.95;94;YES
+1930 Buick Marquette Phaeton;27.06;43.2;16.14;60;YES
+American Airlines: B767-300;51.15;75.81;24.66;48;YES
+ATA: B757-300;59.33;98.48;39.15;66;YES
+F/A 18 Hornet 1/72;54.4;80;25.6;47;YES
+1969 Harley Davidson Ultimate Chopper;48.81;76.56;27.75;57;YES
+1996 Moto Guzzi 1100i;68.99;99.91;30.92;45;YES
+2003 Harley-Davidson Eagle Drag Bike;91.02;164.61;73.59;81;YES
+2002 Suzuki XREO;66.27;131.04;64.77;98;YES
+1936 Harley Davidson El Knucklehead;24.23;48.46;24.23;100;YES
+1957 Vespa GS150;32.95;59.06;26.11;79;YES
+1957 Corvette Convertible;69.93;147.31;77.38;111;YES
+1997 BMW R 1100 S;60.86;98.05;37.19;61;YES
+1960 BSA Gold Star DBD34;37.32;61.7;24.38;65;YES
+1982 Ducati 900 Monster;47.1;60.95;13.85;29;NO
+1961 Chevrolet Impala;32.33;68.71;36.38;113;YES
+1982 Ducati 996 R;24.14;33.39;9.25;38;YES
+1974 Ducati 350 Mk3 Desmo;56.13;102.05;45.92;82;YES
+2002 Yamaha YZR M1;34.17;74.85;40.68;119;YES
+1968 Ford Mustang;95.34;155.66;60.32;63;YES
+1968 Dodge Charger;75.16;113.92;38.76;52;YES
+1970 Plymouth Hemi Cuda;31.92;67.03;35.11;110;YES
+1969 Dodge Charger;58.73;107.1;48.37;82;YES
+1993 Mazda RX-7;83.51;124.56;41.05;49;YES
+1965 Aston Martin DB5;65.96;124.44;58.48;89;YES
+1948 Porsche 356-A Roadster;53.9;74.69;20.79;39;YES
+1995 Honda Civic;93.89;129.45;35.56;38;YES
+1999 Indy 500 Monte Carlo SS;56.76;130.68;73.92;130;YES
+1992 Ferrari 360 Spider red;77.9;147.33;69.43;89;YES
+1969 Dodge Super Bee;49.05;73.17;24.12;49;YES
+1976 Ford Gran Torino;73.49;120.53;47.04;64;YES
+1948 Porsche Type 356 Roadster;62.16;137.04;74.88;120;YES
+1966 Shelby Cobra 427 S/C;29.18;45.28;16.1;55;YES
+1982 Lamborghini Diablo;16.24;32.85;16.61;102;YES
+1971 Alpine Renault 1600s;38.58;54.49;15.91;41;YES
+1956 Porsche 356A Coupe;98.3;122.17;23.87;24;NO
+1937 Lincoln Berline;60.62;83.22;22.6;37;YES
+1936 Mercedes-Benz 500K Special Roadster;24.26;44.21;19.95;82;YES
+1917 Grand Touring Sedan;86.7;159.8;73.1;84;YES
+1911 Ford Town Car;33.3;54.49;21.19;64;YES
+1932 Model A Ford J-Coupe;58.48;105.52;47.04;80;YES
+1928 Mercedes-Benz SSK;72.56;135;62.44;86;YES
+1917 Maxwell Touring Car;57.54;86.31;28.77;50;YES
+1932 Alfa Romeo 8C2300 Spider Sport;43.26;88.35;45.09;104;YES
+1957 Ford Thunderbird;34.21;61.29;27.08;79;YES
+1970 Chevy Chevelle SS 454;49.24;63.2;13.96;28;NO
+1939 Chevrolet Deluxe Coupe;22.57;31.86;9.29;41;YES
+1938 Cadillac V-16 Presidential Limousine;20.61;39.87;19.26;93;YES
+1949 Jaguar XK 120;47.25;87.24;39.99;85;YES
+1952 Citroen-15CV;72.82;116.27;43.45;60;YES
+1969 Chevrolet Camaro Z28;50.51;73.62;23.11;46;YES
+2002 Chevy Corvette;62.11;95.3;33.19;53;YES
+1936 Mercedes Benz 500k Roadster;21.75;34.88;13.13;60;YES
+1952 Alpine Renault 1300;98.58;180.01;81.43;83;YES
+1962 LanciaA Delta 16V;103.42;127.06;23.64;23;NO
+1958 Setra Bus;77.9;114.8;36.9;47;YES
+1940 Ford Pickup Truck;58.33;108.5;50.17;86;YES
+1913 Ford Model T Speedster;60.78;91.18;30.4;50;YES
+1934 Ford V8 Coupe;34.35;51.22;16.87;49;YES
+18th Century Vintage Horse Carriage;60.74;90.06;29.32;48;YES
+1940s Ford truck;84.76;118.66;33.9;40;YES
+1939 Cadillac Limousine;23.14;42.26;19.12;83;YES
+1936 Chrysler Airflow;57.46;81.81;24.35;42;YES
+1996 Peterbilt 379 Stake Bed with Outrigger;33.61;52.36;18.75;56;YES
+1982 Camaro Z28;46.53;85.98;39.45;85;YES
+1998 Chrysler Plymouth Prowler;101.51;145.72;44.21;44;YES
+1964 Mercedes Tour Bus;74.86;119.05;44.19;59;YES
+1926 Ford Fire Engine;24.92;60.77;35.85;144;YES
+1992 Ferrari 360 Spider red;77.9;165.95;88.05;113;YES
+1962 Volkswagen Microbus;61.34;117.57;56.23;92;YES
+1958 Chevy Corvette Limited Edition;15.91;30.06;14.15;89;YES
+1992 Porsche Cayenne Turbo Silver;69.78;114.73;44.95;64;YES
+1980â€™s GM Manhattan Express;53.93;84.75;30.82;57;YES
+1954 Greyhound Scenicruiser;25.98;52.49;26.51;102;YES
+1950's Chicago Surface Lines Streetcar;26.72;59.03;32.31;121;YES
+Diamond T620 Semi-Skirted Tanker;68.29;92.6;24.31;36;YES
+2001 Ferrari Enzo;95.59;195.33;99.74;104;YES
+1969 Ford Falcon;83.05;147.07;64.02;77;YES
+1903 Ford Model A;68.3;124.3;56;82;YES
+Collectable Wooden Train;67.56;94.79;27.23;40;YES
+1970 Triumph Spitfire;91.92;127.82;35.9;39;YES
+1904 Buick Runabout;52.66;87.77;35.11;67;YES
+18th century schooner;82.34;105.69;23.35;28;NO
+1912 Ford Model T Delivery Wagon;46.91;83.2;36.29;77;YES
+1962 City of Detroit Streetcar;37.49;46.86;9.37;25;NO
+The Schooner Bluenose;34;64.67;30.67;90;YES
+The Mayflower;43.3;79.68;36.38;84;YES
+The Titanic;51.09;99.17;48.08;94;YES
+The Queen Mary;53.63;93.35;39.72;74;YES
+Pont Yacht;33.3;47.5;14.2;43;YES
+1972 Alfa Romeo GTA;85.68;108.8;23.12;27;NO
+1980s Black Hawk Helicopter;77.27;137.19;59.92;78;YES
+1999 Yamaha Speed Boat;51.61;73.12;21.51;42;YES
+1941 Chevrolet Special Deluxe Cabriolet;64.58;98.46;33.88;52;YES
+1900s Vintage Bi-Plane;34.25;60.29;26.04;76;YES
+1937 Horch 930V Limousine;26.3;59.83;33.53;127;YES
+1940 Ford Delivery Sedan;48.64;68.77;20.13;41;YES
+HMS Bounty;39.83;80.56;40.73;102;YES
+Boeing X-32A JSF;32.77;42.71;9.94;30;YES
+P-51-D Mustang;49;70.12;21.12;43;YES
+1928 British Royal Navy Airplane;66.74;96.29;29.55;44;YES
+Corsair F4U ( Bird Cage);29.34;55.96;26.62;91;YES
+1900s Vintage Tri-Plane;36.23;64.48;28.25;78;YES
+1928 Ford Phaeton Deluxe;33.02;61.22;28.2;85;YES
+1930 Buick Marquette Phaeton;27.06;39.71;12.65;47;YES
+American Airlines: B767-300;51.15;84.95;33.8;66;YES
+America West Airlines B757-200;68.8;95.73;26.93;39;YES
+F/A 18 Hornet 1/72;54.4;72;17.6;32;YES
+American Airlines: MD-11S;36.27;70.33;34.06;94;YES
+1969 Harley Davidson Ultimate Chopper;48.81;95.7;46.89;96;YES
+1996 Moto Guzzi 1100i;68.99;111.8;42.81;62;YES
+2003 Harley-Davidson Eagle Drag Bike;91.02;182.04;91.02;100;YES
+1936 Harley Davidson El Knucklehead;24.23;52.09;27.86;115;YES
+1997 BMW R 1100 S;60.86;95.8;34.94;57;YES
+1960 BSA Gold Star DBD34;37.32;61.7;24.38;65;YES
+1997 BMW F650 ST;66.92;81.91;14.99;22;NO
+ATA: B757-300;59.33;96.11;36.78;62;YES
+2002 Suzuki XREO;66.27;138.57;72.3;109;YES
+1982 Ducati 900 Monster;47.1;58.87;11.77;25;NO
+1982 Ducati 996 R;24.14;38.62;14.48;60;YES
+1974 Ducati 350 Mk3 Desmo;56.13;89.8;33.67;60;YES
+2002 Yamaha YZR M1;34.17;67.53;33.36;98;YES
+1968 Ford Mustang;95.34;155.66;60.32;63;YES
+1968 Dodge Charger;75.16;104.52;29.36;39;YES
+1970 Plymouth Hemi Cuda;31.92;70.22;38.3;120;YES
+1969 Dodge Super Bee;49.05;75.59;26.54;54;YES
+1976 Ford Gran Torino;73.49;119.06;45.57;62;YES
+1957 Vespa GS150;32.95;60.93;27.98;85;YES
+1957 Corvette Convertible;69.93;136.9;66.97;96;YES
+1971 Alpine Renault 1600s;38.58;53.27;14.69;38;YES
+1961 Chevrolet Impala;32.33;77.61;45.28;140;YES
+1969 Dodge Charger;58.73;99.04;40.31;69;YES
+1993 Mazda RX-7;83.51;140.12;56.61;68;YES
+1965 Aston Martin DB5;65.96;100.8;34.84;53;YES
+1948 Porsche 356-A Roadster;53.9;70.84;16.94;31;YES
+1995 Honda Civic;93.89;128.03;34.14;36;YES
+1999 Indy 500 Monte Carlo SS;56.76;110.88;54.12;95;YES
+1992 Ferrari 360 Spider red;77.9;137.17;59.27;76;YES
+1948 Porsche Type 356 Roadster;62.16;125.74;63.58;102;YES
+1970 Chevy Chevelle SS 454;49.24;72.02;22.78;46;YES
+1966 Shelby Cobra 427 S/C;29.18;49.3;20.12;69;YES
+1949 Jaguar XK 120;47.25;86.33;39.08;83;YES
+1952 Citroen-15CV;72.82;112.74;39.92;55;YES
+1982 Lamborghini Diablo;16.24;33.23;16.99;105;YES
+1969 Chevrolet Camaro Z28;50.51;69.34;18.83;37;YES
+2002 Chevy Corvette;62.11;93.16;31.05;50;YES
+1956 Porsche 356A Coupe;98.3;112.34;14.04;14;NO
+1937 Lincoln Berline;60.62;92.47;31.85;53;YES
+1936 Mercedes-Benz 500K Special Roadster;24.26;46.36;22.1;91;YES
+1917 Grand Touring Sedan;86.7;153;66.3;76;YES
+1911 Ford Town Car;33.3;60.54;27.24;82;YES
+1932 Model A Ford J-Coupe;58.48;115.69;57.21;98;YES
+1928 Mercedes-Benz SSK;72.56;143.44;70.88;98;YES
+1913 Ford Model T Speedster;60.78;87.13;26.35;43;YES
+1934 Ford V8 Coupe;34.35;53.09;18.74;55;YES
+18th Century Vintage Horse Carriage;60.74;97.39;36.65;60;YES
+1917 Maxwell Touring Car;57.54;79.37;21.83;38;YES
+1932 Alfa Romeo 8C2300 Spider Sport;43.26;92.03;48.77;113;YES
+1957 Ford Thunderbird;34.21;66.28;32.07;94;YES
+1939 Chevrolet Deluxe Coupe;22.57;32.19;9.62;43;YES
+1938 Cadillac V-16 Presidential Limousine;20.61;44.8;24.19;117;YES
+1936 Mercedes Benz 500k Roadster;21.75;38.16;16.41;75;YES
+1936 Chrysler Airflow;57.46;92.52;35.06;61;YES
+1952 Alpine Renault 1300;98.58;203.59;105.01;107;YES
+1962 LanciaA Delta 16V;103.42;134.44;31.02;30;YES
+1958 Setra Bus;77.9;124.37;46.47;60;YES
+1940 Ford Pickup Truck;58.33;103.84;45.51;78;YES
+1926 Ford Fire Engine;24.92;51.05;26.13;105;YES
+1940s Ford truck;84.76;113.82;29.06;34;YES
+1939 Cadillac Limousine;23.14;47.79;24.65;107;YES
+1962 Volkswagen Microbus;61.34;112.46;51.12;83;YES
+1980â€™s GM Manhattan Express;53.93;77.05;23.12;43;YES
+1996 Peterbilt 379 Stake Bed with Outrigger;33.61;61.41;27.8;83;YES
+1982 Camaro Z28;46.53;80.92;34.39;74;YES
+1998 Chrysler Plymouth Prowler;101.51;139.17;37.66;37;YES
+1964 Mercedes Tour Bus;74.86;112.91;38.05;51;YES
+1992 Ferrari 360 Spider red;77.9;150.71;72.81;93;YES
+1958 Chevy Corvette Limited Edition;15.91;31.82;15.91;100;YES
+1992 Porsche Cayenne Turbo Silver;69.78;95.81;26.03;37;YES
+1954 Greyhound Scenicruiser;25.98;51.95;25.97;100;YES
+1950's Chicago Surface Lines Streetcar;26.72;59.03;32.31;121;YES
+Diamond T620 Semi-Skirted Tanker;68.29;97.23;28.94;42;YES
+2001 Ferrari Enzo;95.59;203.64;108.05;113;YES
+1969 Ford Falcon;83.05;147.07;64.02;77;YES
+1903 Ford Model A;68.3;127.03;58.73;86;YES
+Collectable Wooden Train;67.56;81.68;14.12;21;NO
+1970 Triumph Spitfire;91.92;126.39;34.47;38;YES
+1962 City of Detroit Streetcar;37.49;56.82;19.33;52;YES
+The Mayflower;43.3;84.88;41.58;96;YES
+1972 Alfa Romeo GTA;85.68;118.32;32.64;38;YES
+1999 Yamaha Speed Boat;51.61;83.44;31.83;62;YES
+1941 Chevrolet Special Deluxe Cabriolet;64.58;85.75;21.17;33;YES
+1904 Buick Runabout;52.66;78.99;26.33;50;YES
+18th century schooner;82.34;109.37;27.03;33;YES
+1912 Ford Model T Delivery Wagon;46.91;83.2;36.29;77;YES
+1940 Ford Delivery Sedan;48.64;67.93;19.29;40;YES
+The Schooner Bluenose;34;60;26;76;YES
+HMS Bounty;39.83;78.75;38.92;98;YES
+The Titanic;51.09;100.17;49.08;96;YES
+The Queen Mary;53.63;88.39;34.76;65;YES
+Boeing X-32A JSF;32.77;39.73;6.96;21;NO
+Pont Yacht;33.3;48.59;15.29;46;YES
+1980s Black Hawk Helicopter;77.27;149.81;72.54;94;YES
+1900s Vintage Bi-Plane;34.25;60.97;26.72;78;YES
+1937 Horch 930V Limousine;26.3;61.81;35.51;135;YES
+Corsair F4U ( Bird Cage);29.34;65.51;36.17;123;YES
+America West Airlines B757-200;68.8;94.73;25.93;38;YES
+American Airlines: MD-11S;36.27;74.03;37.76;104;YES
+1930 Buick Marquette Phaeton;27.06;37.97;10.91;40;YES
+American Airlines: B767-300;51.15;81.29;30.14;59;YES
+F/A 18 Hornet 1/72;54.4;70.4;16;29;NO
+P-51-D Mustang;49;74.34;25.34;52;YES
+1928 British Royal Navy Airplane;66.74;99.57;32.83;49;YES
+1900s Vintage Tri-Plane;36.23;70.28;34.05;94;YES
+1997 BMW F650 ST;66.92;80.91;13.99;21;NO
+1928 Ford Phaeton Deluxe;33.02;65.35;32.33;98;YES
+ATA: B757-300;59.33;115.09;55.76;94;YES
+1969 Harley Davidson Ultimate Chopper;48.81;82.3;33.49;69;YES
+1996 Moto Guzzi 1100i;68.99;116.56;47.57;69;YES
+2003 Harley-Davidson Eagle Drag Bike;91.02;191.72;100.7;111;YES
+2002 Suzuki XREO;66.27;126.52;60.25;91;YES
+1936 Harley Davidson El Knucklehead;24.23;48.46;24.23;100;YES
+1997 BMW R 1100 S;60.86;93.54;32.68;54;YES
+1960 BSA Gold Star DBD34;37.32;66.27;28.95;78;YES
+1957 Vespa GS150;32.95;55.33;22.38;68;YES
+1957 Corvette Convertible;69.93;124.99;55.06;79;YES
+1982 Ducati 900 Monster;47.1;56.1;9;19;NO
+1961 Chevrolet Impala;32.33;75.18;42.85;133;YES
+1982 Ducati 996 R;24.14;33.39;9.25;38;YES
+1974 Ducati 350 Mk3 Desmo;56.13;81.64;25.51;45;YES
+2002 Yamaha YZR M1;34.17;79.73;45.56;133;YES
+1968 Ford Mustang;95.34;161.49;66.15;69;YES
+1968 Dodge Charger;75.16;111.57;36.41;48;YES
+1970 Plymouth Hemi Cuda;31.92;63.84;31.92;100;YES
+1969 Dodge Charger;58.73;115.16;56.43;96;YES
+1948 Porsche 356-A Roadster;53.9;73.15;19.25;36;YES
+1992 Ferrari 360 Spider red;77.9;157.49;79.59;102;YES
+1969 Dodge Super Bee;49.05;66.74;17.69;36;YES
+1976 Ford Gran Torino;73.49;127.88;54.39;74;YES
+1982 Lamborghini Diablo;16.24;33.23;16.99;105;YES
+1971 Alpine Renault 1600s;38.58;56.94;18.36;48;YES
+1956 Porsche 356A Coupe;98.3;140.43;42.13;43;YES
+1993 Mazda RX-7;83.51;114.65;31.14;37;YES
+1965 Aston Martin DB5;65.96;113.24;47.28;72;YES
+1917 Grand Touring Sedan;86.7;153;66.3;76;YES
+1995 Honda Civic;93.89;133.72;39.83;42;YES
+1911 Ford Town Car;33.3;59.33;26.03;78;YES
+1932 Model A Ford J-Coupe;58.48;119.5;61.02;104;YES
+1999 Indy 500 Monte Carlo SS;56.76;106.92;50.16;88;YES
+1948 Porsche Type 356 Roadster;62.16;132.8;70.64;114;YES
+1932 Alfa Romeo 8C2300 Spider Sport;43.26;83.75;40.49;94;YES
+1957 Ford Thunderbird;34.21;69.84;35.63;104;YES
+1970 Chevy Chevelle SS 454;49.24;69.82;20.58;42;YES
+1966 Shelby Cobra 427 S/C;29.18;46.79;17.61;60;YES
+1949 Jaguar XK 120;47.25;79.06;31.81;67;YES
+1952 Citroen-15CV;72.82;112.74;39.92;55;YES
+1969 Chevrolet Camaro Z28;50.51;84.75;34.24;68;YES
+2002 Chevy Corvette;62.11;104.94;42.83;69;YES
+1936 Mercedes Benz 500k Roadster;21.75;34.88;13.13;60;YES
+1937 Lincoln Berline;60.62;98.63;38.01;63;YES
+1936 Mercedes-Benz 500K Special Roadster;24.26;45.82;21.56;89;YES
+1928 Mercedes-Benz SSK;72.56;138.38;65.82;91;YES
+1939 Chevrolet Deluxe Coupe;22.57;27.88;5.31;24;NO
+1938 Cadillac V-16 Presidential Limousine;20.61;36.74;16.13;78;YES
